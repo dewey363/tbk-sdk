@@ -1,0 +1,4 @@
+<?php
+
+define('APPKEY','xxxxxxxxxx');
+define('APPSECRET','xxxxxxxxxxxxxxxxxxxxxxxxxx');
